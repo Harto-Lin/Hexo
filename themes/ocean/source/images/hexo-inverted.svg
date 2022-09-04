@@ -1,10 +1,16 @@
-<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-        "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg t="1542379931426" class="icon" style="" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg"
-     p-id="1734" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128">
+<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg t="1542379931426" class="icon" style="" version="1.1" xmlns="http://www.w3.org/2000/svg"
+     p-id="1734" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200">
     <defs>
         <style type="text/css"></style>
     </defs>
-    <path d="M512 0.288L66.976 258.368v511.744L512 1023.776l445.024-258.08V253.952L512 0.288z m204.704 729.824l-40.064 22.24-40.064-22.24v-178.016h-249.184v178.016l-40.096 22.24-40.032-22.24V293.984l40.064-22.24 40.064 22.24v178.016h249.184V293.984l40.096-22.24 40.032 22.24v436.128z"
-          fill="#ffffff" p-id="1735"></path>
+    
+	<defs>   
+      <mask id="mask3">   
+		<path d="M 40 0L0 40L0 160L40 200L160 200L200 160L200 40L160 0z" fill='#FFFFFF'/>
+		<text x='54%' y='54%' text-anchor="middle" dominant-baseline="middle" font-family='Viner Hand ITC'  font-size="100" font-weight="1000">Lin</text>		
+      </mask>   
+    </defs>
+	<path d="M 40 0L0 40L0 160L40 200L160 200L200 160L200 40L160 0z" fill='#FFFFFF' mask='url(#mask3)'/>
+		
 </svg>

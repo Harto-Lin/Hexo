@@ -5,6 +5,6 @@
         <style type="text/css"></style>
     </defs>
     
-	<path d="M 40 0L0 40L0 160L40 200L160 200L200 160L200 40L160 0z" fill='blue' fill-opacity="0.7"></path>
-	<text x='45%' y='60%' text-anchor="middle" dominant-baseline="middle" fill="#FFFFFF" font-family='edwardian script itc'  font-size="100" font-weight="1000">Lin</text>
+	<text x='50%' y='54%' text-anchor="middle" dominant-baseline="middle" fill='#663D00' font-family='Cooper Black'  font-size="180" font-weight="border">L</text>		
+    
 </svg>
